@@ -1,0 +1,5 @@
+// regular expression keyword
+RxKey[000]=SQT,/'[^\r\n]*?'/k
+RxKey[001]=WQT,/"[^\r\n]*?"/k
+RxKey[002]=SQT,/\/[^\r\n]+?\//k
+RxKey[003]=KW2,/\${[^\r\n]+?}/k
