@@ -1,5 +1,5 @@
-// regular expression keyword
-RxKey[000]=SQT,/'[^\r\n]*?'/k
-RxKey[001]=WQT,/"[^\r\n]*?"/k
-RxKey[002]=SQT,/\/[^\r\n]+?\//k
-RxKey[003]=KW2,/\${[^\r\n]+?}/k
+﻿// 正規表現キーワード Ver1
+RxKey[000]=KW3,/'[^\r\n]*?'/k
+RxKey[001]=KW3,/"[^\r\n]*?"/k
+RxKey[002]=KW3,/\/[^\r\n]+?\//k
+RxKey[003]=KW4,/\${[^\r\n]+?}/k
