@@ -1,0 +1,8 @@
+// sql reserved
+case
+when
+then
+else
+not
+exists
+as

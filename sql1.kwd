@@ -1,0 +1,20 @@
+// sql reserved
+alter
+create
+drop
+select
+insert
+update
+delete
+from
+truncate
+where
+order by
+group by
+left outer join
+right outer join
+inner join
+outer join
+join
+on
+and
