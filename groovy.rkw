@@ -3,3 +3,4 @@ RxKey[000]=KW3,/'[^\r\n]*?'/k
 RxKey[001]=KW3,/"[^\r\n]*?"/k
 RxKey[002]=KW3,/\/[^\r\n]+?\//k
 RxKey[003]=KW2,/@[^\r\n\s]+/k
+RxKey[004]=KW2,/[\w]+:/k
