@@ -4,6 +4,8 @@ create
 drop
 select
 insert
+into
+values
 update
 delete
 from
@@ -18,3 +20,7 @@ outer join
 join
 on
 and
+union
+union all
+view
+table

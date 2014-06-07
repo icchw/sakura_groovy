@@ -3,6 +3,7 @@ case
 when
 then
 else
+end
 not
 exists
 as
@@ -10,3 +11,7 @@ null
 is
 desc
 asc
+nvl
+coalesce
+escape
+count
